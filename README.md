@@ -1,11 +1,12 @@
 # Hi there, I'm Ashraf Ali - aka 👋
 
-## I'm a Husband, Father, Developer, and Tech Enthusiast!!
+## I'm a Husband,Developer, and Tech Enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to sing and play all most all sports 🤣
+- 📝 I like to write about technologies some times 🤖 You can find it here https://ashruashrafali.medium.com/
 
 ### Languages and Tools:
 
