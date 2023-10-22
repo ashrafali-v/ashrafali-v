@@ -1,4 +1,4 @@
-# Hi there, I'm Ashraf Ali - aka 👋
+# Hi there, I'm Ashraf Ali 👋
 
 ## I'm a Husband,Father,Developer, and Tech Enthusiast!!
 
